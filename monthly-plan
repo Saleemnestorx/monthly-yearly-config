@@ -1,0 +1,30 @@
+{
+  "freeTitle": "Free",
+  "freePrice": 0,
+  "freeFeatures": [
+    "3 API keys per org",
+    "1 Organization",
+    "5 Team members",
+    ""
+  ],
+  "freeButton": "Get started for free",
+  "proTitle": "Pro",
+  "proPrice": 19,
+  "enterpriseTitle": "Enterprise",
+  "enterprisePrice": 36,
+  "enterpriseFeatures": [
+    "18 API keys per org",
+    "3 Organizations",
+    "20 Free Users",
+    "1$/User/Month",
+    ""
+  ],
+  "enterpriseButton": "Contact Us",
+  "proButton": "Get Started",
+  "proFeatures": [
+    "8 API keys per org",
+    "2 Organizations",
+    "12 Free users",
+    "1$/User/Month"
+  ]
+}
